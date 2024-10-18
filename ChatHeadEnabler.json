@@ -1,0 +1,18 @@
+{
+    "ntotal": 169615,
+    "stotal": "169.62K",
+    "updated": "18-10-2024 10:31:50 PM",
+    "sources": {
+        "github": 91272,
+        "lsposd": 33768,
+        "xposed": 2075,
+        "extsrc": 42500
+    },
+    "datestmp": 1729247710753,
+    "laststep": {
+        "ntotal": 72,
+        "github": 65,
+        "lsposd": 7,
+        "xposed": 0
+    }
+}
